@@ -126,7 +126,7 @@ footer {
 
 footer p {
   font-family: barcode;
-  font-size: 45px;
+  font-size: 18px;
 }
 .link2:link,
 .link2:visited {
@@ -142,6 +142,10 @@ footer p {
 
 .fa {
   margin: 15px 10px;
+}
+
+.icon {
+  margin-right: 15px;
 }
 
 .fa-linkedin {
